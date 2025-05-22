@@ -7,3 +7,4 @@ Current favourite projects:
 - [ZX Spectrum emulator](https://github.com/stevehjohn/Zen).
 - [Chess Engine](https://github.com/stevehjohn/OcpCoreChess).
 - [Sudoku Solver](https://github.com/stevehjohn/Sudoku).
+- [Train Track Puzzle Solver](https://github.com/stevehjohn/TrainTracks).
